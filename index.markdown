@@ -6,5 +6,7 @@ Title: "Lockpicking Rocks!"
 layout: home
 ---
 
-Just ask @MoononastickLP on twitter. 
+Just ask [Moon On A Stick](htttp://twitter.com/MoononastickLP) on twitter. 
 (The Moon on a stick Lockpicking and Cold brew coffee emporium)
+
+![Moon On A Stick Logo](images/MOAS5a.jpg)
